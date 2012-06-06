@@ -4,3 +4,6 @@ obj
 
 # mstest test results
 TestResults
+
+#tmp files which VS creates
+*.suo
